@@ -1,2 +1,0 @@
-# Python-blog
-study notes
